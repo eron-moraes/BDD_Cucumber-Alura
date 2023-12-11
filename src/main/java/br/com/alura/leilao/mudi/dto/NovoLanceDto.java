@@ -39,4 +39,5 @@ public class NovoLanceDto {
 		lance.setData(LocalDate.now());
 		return lance;
 	}
+
 }

@@ -186,6 +186,4 @@ public class Leilao {
 	public boolean temLances() {
 		return !this.lances.isEmpty();
 	}
-
-	
 }
